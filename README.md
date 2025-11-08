@@ -19,7 +19,6 @@
 
 ###
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Max-Mend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
