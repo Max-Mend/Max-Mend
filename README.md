@@ -1,5 +1,7 @@
 <h2 align="left">Hello 👋! My name is Max-Mend, I'm a programmer from Ukraine.</h2>
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ###
 ![](https://github-readme-stats.vercel.app/api?username=Max-Mend&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Max-Mend&theme=tokyonight&hide_border=false)<br/>
@@ -11,14 +13,6 @@
 
 ###
 
-<div align="center">
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-</div>
-
-###
 
 <div align="left">
 </div>
