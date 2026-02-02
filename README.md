@@ -1,4 +1,8 @@
-<h2 align="left">Hello 👋! My name is Max-Mend, I'm a programmer from Ukraine.</h2>
+<h1 align="left">Hello 👋! My name is Max-Mend, I'm a programmer from Ukraine.</h1>
+
+###
+
+<h2 align="left">I code with:</h2>
 
 ###
 
@@ -12,24 +16,33 @@
 
 ###
 
-###
-![](https://github-readme-stats.vercel.app/api?username=Max-Mend&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Max-Mend&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Mend&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-###
-
-<img align="right" height="200" src="https://media1.tenor.com/m/7ZzPY3wgX_4AAAAC/zero-two-002.gif"  />
+<h2 align="left"></h2>
 
 ###
 
-
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Max-Mend&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Max-Mend&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-![](https://github-profile-trophy.vercel.app/?username=Max-Mend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<div align="right">
+  <img height="200" src="https://media1.tenor.com/m/7ZzPY3wgX_4AAAAC/zero-two-002.gif"  />
+</div>
 
+###
+
+<h2 align="left"></h2>
+
+###
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/maxmend"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="maxmend" /></a></p><br><br>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+</div>
+
+###
