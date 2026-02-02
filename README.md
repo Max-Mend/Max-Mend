@@ -32,9 +32,4 @@
 
 
 <h3 align="left">Support:</h3>
-<div align="center">
-  <a href="https://ko-fi.com/maxmend" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
-  </a>
-</div>
-
+<p><a href="https://ko-fi.com/maxmend"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="maxmend" /></a></p><br><br>
