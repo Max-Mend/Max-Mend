@@ -21,3 +21,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Max-Mend&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/maxmend"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="maxmend" /></a></p><br><br>
+
